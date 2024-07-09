@@ -1,0 +1,42 @@
+Package: iplookup
+Version: 1.0.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: termux-exec,termux-tools,figlet,toilet,pv
+Installed-Size: 36
+Description: Ip address info gethering script..
+Filename: dists/demo/main/binary-all/iplookup.deb
+Size: 1120
+MD5Sum: ded0de751c8baf247cf12beaa5b2f9fe
+SHA1: eccf94caf71294df0411e0908a61614caad2f9f5
+SHA256: 91307b64c05bc5d13371cef15bb9aacd947d4c9817efda3bb98df29d13691030
+SHA512: 838808fb368810784fba04d0516ff351de215b424311dbe9b2ba1ee39f7662a7ede983dced89bcbd0c603398473998f7d9725396876e8814059bc5e0fe68e57a
+
+Package: phoneinfo
+Version: 1.0.1
+Maintainer: Alienkrishn [Anon4You]
+Architecture: all
+Depends: termux-tools,termux-exec,figlet,jq
+Installed-Size: 36
+Description: Phone number lookup tool for termux
+Filename: dists/demo/main/binary-all/phoneinfo.deb
+Size: 1432
+MD5Sum: 204ae6eea1afe9fdd24cfe20c891703a
+SHA1: ecf04cef14d27e65154e52fb8a2610863551662e
+SHA256: 565d6042126a9d8052c0e52fd7a61e83d6d834a67a3ffcc93efd0eb92aceac9d
+SHA512: fd5cfc35cfaf15a41ec2eedc012d32556db1cefe685d675548079323df3ae491ea573ddcf4873eaf70f183e9e433ead7476d457770887bdfdaa7a91d49acc391
+
+Package: shorturl
+Version: 1.0.0
+Architecture: all
+Depends: toilet,curl
+Maintainer: Alienkrishn [Anon4You]
+Description: URL shortner for termux
+Installed-Size: 32
+Filename: dists/demo/main/binary-all/shorturl.deb
+Size: 1328
+MD5Sum: e2da5cc6c9dcd34de2198e79cc594ee1
+SHA1: 0f60081c80449ac535d993ef6e62d1ada15778a4
+SHA256: f6ae1973b6133525cd0518a105c02a0bea43dc4af0cc27cbafadae4f9c52668e
+SHA512: af3f0ef916b5be2ac013af560a0f93e10fef24976f4e520e716dc298a8bc09ea85ac9319d732c5091fbaeb0066bc450e276931d1033e2fdffd4fb9ca021f7664
+
